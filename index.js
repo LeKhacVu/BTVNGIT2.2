@@ -1,3 +1,3 @@
-var f1=function(){
-    console.log(f1)
+var donef1=function(){
+    console.log(donef1)
 }
